@@ -36,6 +36,14 @@ Run Cipher Cracker:
 ```bash
 python3 ray_cracker.py
 ```
+## Screenshots
+
+### Input Example
+![Ray Cipher Encode](IMG_8716.jpeg)
+
+### Output Example
+![Ray Cipher Decode](IMG_8715.jpeg)
+
 1. Enter the numeric cipher code number you get from ray cipher tool.
 2. Wait for the loading animation to finish.
 3. Review the 26 possible decryption results.
