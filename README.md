@@ -25,7 +25,7 @@ A Python-based brute-force tool for numeric Caesar-style ciphers.
 Clone the repository:
 
 ```bash
-git clone https://github.com/RayH4T/cipher-cracker.gi
+git clone https://github.com/RayH4T/cipher-cracker.git
 cd cipher-cracker
 ```
 
